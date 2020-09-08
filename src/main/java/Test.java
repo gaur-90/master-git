@@ -8,7 +8,6 @@ public class Test {
         System.out.println("Area of rectangle="+area);
         System.out.println("Hello!!!!");
         System.out.println("yo");
-        System.out.println("thehadhad");
     }
 
 }
