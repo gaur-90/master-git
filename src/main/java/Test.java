@@ -6,7 +6,7 @@ public class Test {
         int height=10;
         int area=width*height;
         System.out.println("Area of rectangle="+area);
-        System.out.println("Hell");
+        System.out.println("Hello");
     }
 
 }
